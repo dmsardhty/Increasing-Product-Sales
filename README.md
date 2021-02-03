@@ -1,4 +1,4 @@
-# Increasing-Product-Sales
+# Potential Customer for Increasing Product Sales
 
 # Business Understanding
 
